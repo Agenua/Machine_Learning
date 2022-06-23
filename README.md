@@ -7,7 +7,6 @@ En este proyecto se utiliza el dataset Forest Cover Type procedente de la Univer
 - datos descargados de la web [University of California - Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php) en formato .data. No se suben los archivos porque son mayores a 25 Mb (src/data/)
 - notebook principal donde se detallan todos los pasos de la analítica, filtrado de datos, visualización y aplicación de algoritmos (src/main.ipynb)
 - carpeta con todos los gráficos creados (src/plots/)
-- no he guardado los notebooks con pruebas por lo que no he creado esta carpeta (src/notebooks/)
 - presentación de PowerPoint guardada en PDF
 - memoria en PDF
 
